@@ -117,31 +117,17 @@ namespace Final
             {
                 while (Novedades != null)
                 {
+                    SW.WriteLine(Novedades, "\r\n");
                     Novedades = RN.ReadLine();
-
-                    if (Novedades != null)
-                    {
-                        SW.WriteLine(Novedades, "\r\n");
-                    }
-                    
                 }
-
-
 
             }
             else
             {
                 while (Maestro != null)
                 {
+                    SW.WriteLine(Maestro, "\r\n");
                     Maestro = RM.ReadLine();
-
-                    if (Maestro != null)
-                    {
-                        SW.WriteLine(Maestro, "\r\n");
-                    }
-                    
-                    
-
                 }
             }
 
