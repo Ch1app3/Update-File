@@ -1,0 +1,10 @@
+C:\Users\Mariano Chiappe\source\repos\Final\Final\bin\Debug\Final.exe.config
+C:\Users\Mariano Chiappe\source\repos\Final\Final\bin\Debug\Final.exe
+C:\Users\Mariano Chiappe\source\repos\Final\Final\bin\Debug\Final.pdb
+C:\Users\Mariano Chiappe\source\repos\Final\Final\obj\Debug\Final.csprojAssemblyReference.cache
+C:\Users\Mariano Chiappe\source\repos\Final\Final\obj\Debug\Final.Form1.resources
+C:\Users\Mariano Chiappe\source\repos\Final\Final\obj\Debug\Final.Properties.Resources.resources
+C:\Users\Mariano Chiappe\source\repos\Final\Final\obj\Debug\Final.csproj.GenerateResource.cache
+C:\Users\Mariano Chiappe\source\repos\Final\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+C:\Users\Mariano Chiappe\source\repos\Final\Final\obj\Debug\Final.exe
+C:\Users\Mariano Chiappe\source\repos\Final\Final\obj\Debug\Final.pdb
