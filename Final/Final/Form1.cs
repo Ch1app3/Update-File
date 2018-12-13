@@ -146,7 +146,8 @@ namespace Final
             }
 
 
-
+            RM.Close();
+            RN.Close();
             SW.Close();
             AD.Close();
            
